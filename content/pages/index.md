@@ -22,7 +22,7 @@ sections:
       and exceptional service that will make your stay in Marrakech truly
       exceptional.
     actions:
-      - label: Get started
+      - label: Reserve now
         altText: ''
         url: /
         showIcon: false
