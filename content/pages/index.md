@@ -25,7 +25,7 @@ sections:
       - label: Reserve now
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
