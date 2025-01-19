@@ -8,8 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: VillKesh
-    text: >+
-      iscover the perfect blend of tradition and modern luxury with our
+    text: >
+      Discover the perfect blend of tradition and modern luxury with our
       exclusive collection of private villas in the heart of Marrakech. Whether
       you're planning a romantic getaway, a family retreat, or a celebratory
       escape, our villas offer an unforgettable stay amidst the vibrant charm of
@@ -21,9 +21,6 @@ sections:
       contemporary comforts. Experience unparalleled privacy, exquisite design,
       and exceptional service that will make your stay in Marrakech truly
       exceptional.
-
-
-
     actions:
       - label: Get started
         altText: ''
