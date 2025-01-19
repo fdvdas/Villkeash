@@ -8,10 +8,22 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: VillKesh
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      iscover the perfect blend of tradition and modern luxury with our
+      exclusive collection of private villas in the heart of Marrakech. Whether
+      you're planning a romantic getaway, a family retreat, or a celebratory
+      escape, our villas offer an unforgettable stay amidst the vibrant charm of
+      Morocco's most captivating city.
+
+
+      Nestled in the picturesque landscapes surrounding the city, each villa is
+      a serene oasis that combines traditional Moroccan architecture with
+      contemporary comforts. Experience unparalleled privacy, exquisite design,
+      and exceptional service that will make your stay in Marrakech truly
+      exceptional.
+
+
+
     actions:
       - label: Get started
         altText: ''
