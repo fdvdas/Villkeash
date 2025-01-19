@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Welcome to Our Luxury Villas in Marrakech
       color: text-primary
       type: Badge
     elementId: ''
