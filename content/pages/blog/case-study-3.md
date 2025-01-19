@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/hDQ6akzQ1G3WUQ0B03AE_Lalbaicin_(17).webp
-  altText: Case study 3
+  altText: villa3
   styles:
     self:
       borderRadius: x-large
