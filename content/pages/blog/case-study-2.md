@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/imagereader.webp
-  altText: Case study 2
+  altText: Villa Dar azou
   styles:
     self:
       borderRadius: x-large
